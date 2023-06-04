@@ -1,4 +1,5 @@
 # okul_oncesi_egitim_seti
+WITH REACT NATIVE
 okul oncesi eğitim setini başlatabilmek için;
 Android studio gibi simülatör yazılımlarını kullanmak istemiyorsanız,
 1. https://nodejs.org/en/ sitesinden node.js yazılımının son sürümünü indirin.
